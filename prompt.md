@@ -1,6 +1,8 @@
 # Usando um mesmo prompt com várias LLMs e comparando o resultado
 
-## I’m using the new ollama python integration.
+## Prompt utlizado:
+
+### I’m using the new ollama python integration.
     
 Script python utilizado:
 ```
@@ -13,7 +15,7 @@ Script python utilizado:
     print(response)
 ```
 
-## This is the result:
+### This is the result:
 (venv) PS G:\leo\python\nfe> python test.py
 model='llama3.1' created_at='2024-12-02T13:38:09.7207759Z' done=True done_reason='stop' total_duration=38908693200 load_duration=20523722100 prompt_eval_count=31 prompt_eval_duration=167000000 eval_count=1056 eval_duration=18215000000 message=Message(role='assistant', content=
 ```
@@ -21,5 +23,5 @@ Aqui estão 5 ideias de projetos úteis que você pode criar utilizando Streamli
 ```
 , images=None, tool_calls=None)
 
-And the response is not pretty.
+###And the response is not pretty.
 `How can I optimize the script to have a pretty / normalized response?`
