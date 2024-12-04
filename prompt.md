@@ -23,6 +23,5 @@ Aqui estão 5 ideias de projetos úteis que você pode criar utilizando Streamli
 ```
 , images=None, tool_calls=None)
 
-###And the response is not pretty.
-
+### And the response is not pretty.
 `How can I optimize the script to have a pretty / normalized response?`
