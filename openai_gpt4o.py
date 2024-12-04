@@ -1,5 +1,5 @@
 # LLM: gpt4o | running in the cloud
-# Rodando o modelo flagship da OpenAI na nuvem
+# Script gerado com modelo flagship da OpenAI na nuvem
 import ollama
 
 pergunta = 'Me dê 5 ideias de projetos uteis usando streamlit e ollama'
