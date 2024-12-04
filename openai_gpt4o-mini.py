@@ -1,5 +1,5 @@
 # LLM: gpt4o-mini | running in the cloud
-# Criado com o modelo mais barato da OpenAI
+# Script gerado com o modelo mais barato da OpenAI
 
 import ollama
 import json
