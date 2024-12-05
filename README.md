@@ -9,11 +9,13 @@ A intenção deste repo é documentar um teste que eu fiz de geração de códig
 1. OpenAI: gpt4o
 2. OpenAI: gpt4o-mini
 3. Anthropic: Sonnet3.5
+[novo] OpenAI: gpt-o1 | 1-shot
+[novo] OpenAI: gpt-o1 | 2-shot
 
 `executado localmente com Ollama `
 
 4. Meta: llama3.1:8b | 4.7gb
-5. Google: gemma2 | 5.4gb
+5. Google: gemma2 | 5.4gb | 3-shot
 6. Alibaba: qwen2.5-coder | 4.7gb
 
 
