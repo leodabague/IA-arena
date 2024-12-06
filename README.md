@@ -22,3 +22,10 @@ A intenção deste repo é documentar um teste que eu fiz de geração de códig
 ## O que tem no Repo?
 Você vai encontrar um .md com o prompt completo.
 E cada script (.py) gerado por cada uma das LLMs.
+
+## Exemplos de respostas:
+![image](https://github.com/user-attachments/assets/389867be-0cfc-4c37-87b9-527325d7f83a)
+
+![image](https://github.com/user-attachments/assets/472a751b-ea0b-4b43-a26f-c9146fbd87f1)
+
+![image](https://github.com/user-attachments/assets/52ec63c8-9ffc-4b64-bda3-a06f8e0f8e44)
