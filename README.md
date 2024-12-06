@@ -24,8 +24,11 @@ Você vai encontrar um .md com o prompt completo.
 E cada script (.py) gerado por cada uma das LLMs.
 
 ## Exemplos de respostas:
+### resultado #1
 ![image](https://github.com/user-attachments/assets/389867be-0cfc-4c37-87b9-527325d7f83a)
-
+### resultado #2
 ![image](https://github.com/user-attachments/assets/472a751b-ea0b-4b43-a26f-c9146fbd87f1)
-
+### resultado #3
 ![image](https://github.com/user-attachments/assets/52ec63c8-9ffc-4b64-bda3-a06f8e0f8e44)
+### resultado #4
+![image](https://github.com/user-attachments/assets/47cdd039-62a7-4495-b85b-69c80bbe75b8)
